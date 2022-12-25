@@ -1,0 +1,53 @@
+{
+  "employes": [
+    {
+      "id": 1,
+      "name": "Rudi",
+      "age": 25,
+      "salary": 3200000,
+      "wfh": false
+    },
+    {
+      "id": 2,
+      "name": "Mita",
+      "age": 22,
+      "salary": 2800000,
+      "wfh": true
+    },
+    {
+      "id": 3,
+      "name": "Ahmad",
+      "age": 27,
+      "salary": 3890000,
+      "wfh": true
+    },
+    {
+      "id": 5,
+      "name": "Rahmat",
+      "age": 26,
+      "salary": 6200000,
+      "wfh": true
+    },
+    {
+      "id": 7,
+      "name": "Juned",
+      "age": 20,
+      "salary": 2200000,
+      "wfh": false
+    },
+    {
+      "id": 6,
+      "name": "Alfa",
+      "age": 20,
+      "salary": 2900000,
+      "wfh": false
+    },
+    {
+      "id": 8,
+      "name": "Indra",
+      "age": 20,
+      "salary": 2890000,
+      "wfh": true
+    }
+  ]
+}
